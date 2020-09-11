@@ -1,16 +1,29 @@
-### Hi there 👋
+<h3 align="center">•ᴗ•</h3>
 
-<!--
-**tribakzero/tribakzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Alejandro.</h1>
+<h3 align="center">Software Engineer by Day, Animator by afternoon, Game-dev by night.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🙇‍♂️ About me
+<p>
+  I'm most likely currently...
+  <br>
+  <img width="200" alt="hello!" align="left" src="https://tribak-dynamic-avatar.glitch.me/avatar" >
+</p>
+
+🌱 I’m currently learning **Unity & NEXT.js**
+
+💬 Ask me about **react & blender**
+
+👻 Creator of [GEaaS (Ghost Emoji as a Service)](https://geaas.herokuapp.com/)
+
+🔓 Love breaking things apart, wanna be an admin in 💥🐱 Exploding Kittens? [Exploding Proxy](https://github.com/tribakzero/exploding-proxy)
+
+🐛 Look at other pet-project going to my [Glitch](https://glitch.com/@tribak)
+
+🤯 Wanna know about my currently doing image? [Tribak Dynamic Avatar](https://glitch.com/~tribak-dynamic-avatar)
+
+⚡ Fun fact: I have a lemon tree inside my department 🙊
