@@ -3,6 +3,7 @@
 <br>
 
 <h1 align="center">Hi there 👋, I'm Alejandro.</h1>
+
 <h3 align="center">Software Engineer by Day, Animator by afternoon, Game-dev by night.</h3>
 
 <br>
