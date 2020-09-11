@@ -14,7 +14,7 @@
   <img width="200" alt="hello!" align="left" src="https://tribak-dynamic-avatar.glitch.me/avatar" >
 </p>
 
-🌱 I’m currently learning **Unity & NEXT.js**. You can ask me about **react & blender**
+🌱 I’m learning **Unity & NEXT.js**. You can ask me about **react & blender**
 
 👻 Creator of [GEaaS (Ghost Emoji as a Service)](https://geaas.herokuapp.com/)
 
