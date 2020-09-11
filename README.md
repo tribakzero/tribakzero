@@ -14,16 +14,12 @@
   <img width="200" alt="hello!" align="left" src="https://tribak-dynamic-avatar.glitch.me/avatar" >
 </p>
 
-🌱 I’m currently learning **Unity & NEXT.js**
-
-💬 Ask me about **react & blender**
+🌱 I’m currently learning **Unity & NEXT.js**. You can ask me about **react & blender**
 
 👻 Creator of [GEaaS (Ghost Emoji as a Service)](https://geaas.herokuapp.com/)
 
 🔓 Love breaking things apart, wanna be an admin in 💥🐱 Exploding Kittens? [Exploding Proxy](https://github.com/tribakzero/exploding-proxy)
 
-🐛 Look at other pet-project going to my [Glitch](https://glitch.com/@tribak)
-
-🤯 Wanna know about my currently doing image? [Tribak Dynamic Avatar](https://glitch.com/~tribak-dynamic-avatar)
+🐛 Look at other pet-project going to my [Glitch](https://glitch.com/@tribak). 🤯 Like my "currently doing" dynamic image? [Tribak Dynamic Avatar](https://glitch.com/~tribak-dynamic-avatar)
 
 ⚡ Fun fact: I have a lemon tree inside my department 🙊
