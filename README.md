@@ -17,7 +17,7 @@
 
 🌱 I’m learning **Unity & NEXT.js**. You can ask me about **react & blender**
 
-👻 Creator of [GEaaS (Ghost Emoji as a Service)](https://geaas.herokuapp.com/)
+👻 Creator of [GEaaS (Ghost Emoji as a Service)](https://geaas.vercel.app/)
 
 🔓 Love breaking things apart, wanna be an admin in 💥🐱 Exploding Kittens? [Exploding Proxy](https://github.com/tribakzero/exploding-proxy)
 
